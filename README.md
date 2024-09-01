@@ -7,7 +7,7 @@ Byamugisha's paper with information on the model can be found here https://aclan
 > [!IMPORTANT]
 > To use this model, you need to replace the placeholder noun and class datafiles in the /Datafiles folder, this had to be redacted since we do not own said data and cannot make it publically available.
 
-The replication for each language follows the same pattern and can be run by using the Replication.py in either folder.<br/>
+The replication for each language follows the same pattern and can be run using the Replication.py in either folder.<br/>
 When running the above file it will automatically utilize the model on a test-set and return the accuracy attained.
 The model was trained utilizing sentence corpora created by aggregating the NCHLT Text Corpora, Autshumato Corpora, Leipzig Corpus Collection and Common Crawl corpus for isiZulu and Sepedi.
 Details on the annotation of this data can be found in the respective files.<br/>
