@@ -9,6 +9,6 @@ Byamugisha's paper with information on the model can be found here https://aclan
 
 The replication for each language follows the same pattern and can be run using the Replication.py in either folder.<br/>
 When running the above file it will automatically utilize the model on a test-set and return the accuracy attained.
-The model was trained utilizing sentence corpora created by aggregating the NCHLT Text Corpora, Autshumato Corpora, Leipzig Corpus Collection and Common Crawl corpus for isiZulu and Sepedi.
+The model was trained utilizing sentence data from corpora created by aggregating the NCHLT Text Corpora, Autshumato Corpora, Leipzig Corpus Collection and Common Crawl corpus for isiZulu and Sepedi.
 Details on the annotation of this data can be found in the respective files.<br/>
 
